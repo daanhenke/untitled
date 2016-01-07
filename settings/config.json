@@ -1,0 +1,8 @@
+{
+  "hostname": "192.168.0.12",
+  "port": 80,
+
+  "name": "Patatzak",
+  "password": "15a3ec8a27866abee6cf7e511c1a3e3282f67a8d",
+  "salt": "13371337"
+}
